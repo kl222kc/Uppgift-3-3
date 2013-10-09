@@ -54,3 +54,58 @@
 {"ts":1381337689011,"patch":[[{"diffs":[[0,"ent {\n\n}"],[1,"\n\n#menu {\n    \n}"]],"start1":525,"start2":525,"length1":8,"length2":24}]],"length":549,"saved":false}
 {"ts":1381337710677,"patch":[[{"diffs":[[0,"u {\n    "],[1,"background-color: #9ACD32;"],[0,"\n}"]],"start1":539,"start2":539,"length1":10,"length2":36}]],"length":575,"saved":false}
 {"ts":1381337757375,"patch":[[{"diffs":[[0,"0 auto;\n"],[1,"    background-color: #8B4513;\n"],[0,"}\n\n#topb"]],"start1":130,"start2":130,"length1":16,"length2":47},{"diffs":[[0,"    "],[-1,"background-color: #8B4513;"],[0,"\n   "]],"start1":200,"start2":200,"length1":34,"length2":8}]],"length":580,"saved":false}
+{"ts":1381337971845,"patch":[[{"diffs":[[0,"ACD32;\n}"],[1,"\n\n#menu ul {\n    list-style: none;\n}"]],"start1":572,"start2":572,"length1":8,"length2":44}]],"length":616,"saved":false}
+{"ts":1381338210147,"patch":[[{"diffs":[[0," none;\n}"],[1,"\n\n#menu li {\n    float: left;\n}"]],"start1":608,"start2":608,"length1":8,"length2":39}]],"length":647,"saved":false}
+{"ts":1381338233872,"patch":[[{"diffs":[[0,"9ACD32;\n"],[1,"    height: 300px;\n"],[0,"}\n\n#menu"]],"start1":571,"start2":571,"length1":16,"length2":35}]],"length":666,"saved":false}
+{"ts":1381338242028,"patch":[[{"diffs":[[0,"height: "],[-1,"3"],[1,"2"],[0,"00px;\n}\n"]],"start1":583,"start2":583,"length1":17,"length2":17}]],"length":666,"saved":false}
+{"ts":1381338262629,"patch":[[{"diffs":[[0,": left;\n"],[1,"    margin: 10px;\n"],[0,"}"]],"start1":657,"start2":657,"length1":9,"length2":27}]],"length":684,"saved":false}
+{"ts":1381338280431,"patch":[[{"diffs":[[0," margin: 10px;\n}"],[1,"\n\n#manu a {\n    \n}"]],"start1":668,"start2":668,"length1":16,"length2":34}]],"length":702,"saved":false}
+{"ts":1381338415386,"patch":[[{"diffs":[[0,": none;\n"],[1,"    text-decoration:none;\n"],[0,"}\n\n#menu"]],"start1":626,"start2":626,"length1":16,"length2":42},{"diffs":[[0,"px;\n"],[-1,"}\n\n#manu a {\n    "],[1,"    text-decoration:none;\n}\n\n#manu a {\n    text-decoration:none;"],[0,"\n}"]],"start1":705,"start2":705,"length1":23,"length2":70}]],"length":775,"saved":false}
+{"ts":1381338498358,"patch":[[{"diffs":[[0,"ation:none;\n"],[1,"    position: absolute; \n    bottom: 0;\n"],[0,"}\n\n#menu li "]],"start1":648,"start2":648,"length1":24,"length2":64}]],"length":815,"saved":false}
+{"ts":1381338512080,"patch":[[{"diffs":[[0,"ne;\n"],[-1,"    position: absolute; \n    bottom: 0;"],[0,"\n}\n\n"]],"start1":656,"start2":656,"length1":47,"length2":8}]],"length":776,"saved":false}
+{"ts":1381338597666,"patch":[[{"diffs":[[0,"n:none;\n"],[1,"  width: 400px;\n  margin: 0 auto;"],[0,"\n}\n\n#men"]],"start1":652,"start2":652,"length1":16,"length2":49}]],"length":809,"saved":false}
+{"ts":1381338612165,"patch":[[{"diffs":[[0," 400px;\n"],[-1,"  margin: 0 auto;"],[0,"\n}\n\n#men"]],"start1":668,"start2":668,"length1":33,"length2":16}]],"length":792,"saved":false}
+{"ts":1381338759678,"patch":[[{"diffs":[[0,"px;\n    "],[1,"display:none;"],[0,"\n    tex"]],"start1":196,"start2":196,"length1":16,"length2":29}]],"length":805,"saved":false}
+{"ts":1381338779354,"patch":[[{"diffs":[[0,"px;\n"],[-1,"    display:none;\n"],[0,"    "]],"start1":196,"start2":196,"length1":26,"length2":8}]],"length":787,"saved":false}
+{"ts":1381338807335,"patch":[[{"diffs":[[0,"ght;\n}\n\n"],[1,"#menu a {\n    display: none;\n}\n\n"],[0,"#subcont"]],"start1":218,"start2":218,"length1":16,"length2":48}]],"length":819,"saved":false}
+{"ts":1381338881027,"patch":[[{"diffs":[[0,"    "],[-1,"display: none;"],[1,"visibility:hidden"],[0,"\n}\n\n"]],"start1":236,"start2":236,"length1":22,"length2":25}]],"length":822,"saved":false}
+{"ts":1381338908464,"patch":[[{"diffs":[[0,"y:hidden"],[1,";\n}\n\nul a {\n    visibility:visible;"],[0,"\n}\n\n#sub"]],"start1":249,"start2":249,"length1":16,"length2":51}]],"length":857,"saved":false}
+{"ts":1381338946356,"patch":[[{"diffs":[[0,": right;\n}\n\n"],[1,"a:first-child\n{ \nbackground-color:yellow;\n}\n\n"],[0,"#menu a {\n  "]],"start1":214,"start2":214,"length1":24,"length2":69}]],"length":902,"saved":false}
+{"ts":1381338953198,"patch":[[{"diffs":[[0,"\n{ \n"],[-1,"background-color:yellow"],[1,"visibility:hidden"],[0,";\n}\n"]],"start1":239,"start2":239,"length1":31,"length2":25}]],"length":896,"saved":false}
+{"ts":1381338954951,"patch":[[{"diffs":[[0,"\n}\n\n"],[-1,"#menu a {\n    visibility:hidden;\n}\n\n"],[0,"ul a"]],"start1":261,"start2":261,"length1":44,"length2":8}]],"length":860,"saved":false}
+{"ts":1381338965879,"patch":[[{"diffs":[[0,"\n}\n\n"],[-1,"ul a {\n    visibility:visible;\n}\n"],[0,"\n#su"]],"start1":261,"start2":261,"length1":41,"length2":8}]],"length":827,"saved":false}
+{"ts":1381339048209,"patch":[[{"diffs":[[0,"den;\n}\n\n"],[1,"body> ul>:first-child {\n    display: none;\n}\n"],[0,"\n#subcon"]],"start1":257,"start2":257,"length1":16,"length2":61}]],"length":872,"saved":false}
+{"ts":1381339052721,"patch":[[{"diffs":[[0,"\n\nbody> "],[-1,"ul"],[1,"a"],[0,">:first-"]],"start1":263,"start2":263,"length1":18,"length2":17}]],"length":871,"saved":false}
+{"ts":1381339057154,"patch":[[{"diffs":[[0,"\n}\n\n"],[-1,"a:first-child\n{ \nvisibility:hidden;\n}"],[0,"\n\nbo"]],"start1":222,"start2":222,"length1":45,"length2":8}]],"length":834,"saved":false}
+{"ts":1381339069008,"patch":[[{"diffs":[[0,"\n\n\n\n"],[-1,"body"],[1,"#menu"],[0,"> a>"]],"start1":224,"start2":224,"length1":12,"length2":13}]],"length":835,"saved":false}
+{"ts":1381339128524,"patch":[[{"diffs":[[0,"menu"],[1," "],[0,"> a"],[-1,">"],[0,":fir"]],"start1":229,"start2":229,"length1":12,"length2":12},{"diffs":[[0,"ld {"],[-1,"\n    display: none;\n"],[1," /* your css */ "],[0,"}\n\n#"]],"start1":247,"start2":247,"length1":28,"length2":24}]],"length":831,"saved":false}
+{"ts":1381339141140,"patch":[[{"diffs":[[0,"d { "],[-1,"/* your css */"],[1,"\n    color: #fff;\n   "],[0," }\n\n"]],"start1":248,"start2":248,"length1":22,"length2":29}]],"length":838,"saved":false}
+{"ts":1381339151798,"patch":[[{"diffs":[[0,"    "],[-1,"color: #fff"],[1,"display: none"],[0,";\n  "]],"start1":253,"start2":253,"length1":19,"length2":21}]],"length":840,"saved":false}
+{"ts":1381339339229,"patch":[[{"diffs":[[0,"ght: 200px;\n"],[1,"        margin-top: -1.2em;\n    margin-right: auto;\n    margin-left: auto;\n"],[0,"}\n\n#menu ul "]],"start1":634,"start2":634,"length1":24,"length2":99}]],"length":915,"saved":false}
+{"ts":1381339346463,"patch":[[{"diffs":[[0,"    "],[-1,"    margin-top: -1.2em;\n    margin-right: auto;\n    margin-left: auto;"],[0,"\n}\n\n"]],"start1":646,"start2":646,"length1":78,"length2":8}]],"length":845,"saved":false}
+{"ts":1381339348898,"patch":[[{"diffs":[[0,": 400px;"],[1,"\n      margin-top: -1.2em;\n    margin-right: auto;\n    margin-left: auto;"],[0,"\n\n}\n\n#me"]],"start1":720,"start2":720,"length1":16,"length2":89}]],"length":918,"saved":false}
+{"ts":1381339358294,"patch":[[{"diffs":[[0,"2em;"],[-1,"\n    margin-right: auto;\n    margin-left: auto;"],[0,"\n\n}\n"]],"start1":750,"start2":750,"length1":55,"length2":8}]],"length":871,"saved":false}
+{"ts":1381339364694,"patch":[[{"diffs":[[0,"in-top: "],[-1,"-"],[0,"1.2em;\n\n"]],"start1":739,"start2":739,"length1":17,"length2":16}]],"length":870,"saved":false}
+{"ts":1381339375750,"patch":[[{"diffs":[[0,"    "],[-1,"margin-top: 1.2em;"],[0,"\n\n}\n"]],"start1":731,"start2":731,"length1":26,"length2":8},{"diffs":[[0,"n:none;\n"],[1,"    margin-top: 1.2em;\n"],[0,"}\n\n#manu"]],"start1":804,"start2":804,"length1":16,"length2":39}]],"length":875,"saved":false}
+{"ts":1381339436633,"patch":[[{"diffs":[[0,"height: "],[-1,"20"],[1,"3"],[0,"0px;\n   "]],"start1":631,"start2":631,"length1":18,"length2":17}]],"length":874,"saved":false}
+{"ts":1381339450032,"patch":[[{"diffs":[[0,"ne;\n"],[-1,"    margin-top: 1.2em;\n"],[0,"}\n\n#"]],"start1":807,"start2":807,"length1":31,"length2":8}]],"length":851,"saved":false}
+{"ts":1381339515103,"patch":[[{"diffs":[[0,"px;\n    "],[1,"margin-top: 30;"],[0,"\n}\n\n#men"]],"start1":641,"start2":641,"length1":16,"length2":31}]],"length":866,"saved":false}
+{"ts":1381339517265,"patch":[[{"diffs":[[0,"-top: 30"],[1,"px"],[0,";\n}\n\n#me"]],"start1":655,"start2":655,"length1":16,"length2":18}]],"length":868,"saved":false}
+{"ts":1381339528855,"patch":[[{"diffs":[[0,"in-top: "],[-1,"3"],[1,"5"],[0,"0px;\n}\n\n"]],"start1":653,"start2":653,"length1":17,"length2":17}]],"length":868,"saved":false}
+{"ts":1381339539399,"patch":[[{"diffs":[[0,"r: #"],[-1,"9ACD32"],[1,"FFF"],[0,";\n  "]],"start1":615,"start2":615,"length1":14,"length2":11}]],"length":865,"saved":false}
+{"ts":1381339658732,"patch":[[{"diffs":[[0,"ght;\n}\n\n"],[-1,"\n\n"],[0,"#menu > "]],"start1":218,"start2":218,"length1":18,"length2":16}]],"length":863,"saved":false}
+{"ts":1381339706055,"patch":[[{"diffs":[[0," right;\n"],[1,"    height: 200px;\n"],[0,"}\n\n#menu"]],"start1":215,"start2":215,"length1":16,"length2":35}]],"length":882,"saved":false}
+{"ts":1381339755496,"patch":[[{"diffs":[[0,"ght: 200px;\n"],[1,"    background-image:url('pics/b.png');\n"],[0,"}\n\n#menu > a"]],"start1":230,"start2":230,"length1":24,"length2":64}]],"length":922,"saved":false}
+{"ts":1381339776664,"patch":[[{"diffs":[[0,"rl('"],[1,"css/"],[0,"pics/"],[-1,"b.pn"],[1,"coffey.jp"],[0,"g');"]],"start1":264,"start2":264,"length1":17,"length2":26}]],"length":931,"saved":false}
+{"ts":1381339813957,"patch":[[{"diffs":[[0,"rl('"],[-1,"css/"],[0,"pics"]],"start1":264,"start2":264,"length1":12,"length2":8}]],"length":927,"saved":false}
+{"ts":1381339870422,"patch":[[{"diffs":[[0,".jpg');\n"],[1,"    background-repeat: no-repeat;\n"],[0,"}\n\n#menu"]],"start1":279,"start2":279,"length1":16,"length2":50}]],"length":961,"saved":false}
+{"ts":1381339933124,"patch":[[{"diffs":[[0,"px;\n"],[-1,"    background-image:url('pics/coffey.jpg');\n    background-repeat: no-repeat;\n"],[0,"}\n\n#"]],"start1":238,"start2":238,"length1":87,"length2":8}]],"length":882,"saved":false}
+{"ts":1381339951941,"patch":[[{"diffs":[[0,"  margin"],[1,"-right"],[0,": 10px;\n"]],"start1":800,"start2":800,"length1":16,"length2":22}]],"length":888,"saved":false}
+{"ts":1381340007372,"patch":[[{"diffs":[[0,"height: "],[-1,"20"],[1,"15"],[0,"0px;\n}\n\n"]],"start1":227,"start2":227,"length1":18,"length2":18},{"diffs":[[0,"\n    text-decoration:none;\n}"],[1,"\n\n"]],"start1":860,"start2":860,"length1":28,"length2":30}]],"length":890,"saved":false}
+{"ts":1381340020729,"patch":[[{"diffs":[[0,"px;\n"],[-1,"    margin-top: 50px;\n"],[0,"}\n\n#"]],"start1":655,"start2":655,"length1":30,"length2":8}]],"length":868,"saved":false}
+{"ts":1381340033517,"patch":[[{"diffs":[[0,"ight: 30px;\n"],[1,"    margin-bottom: 0;\n"],[0,"}\n\n#menu ul "]],"start1":647,"start2":647,"length1":24,"length2":46}]],"length":890,"saved":false}
+{"ts":1381340041936,"patch":[[{"diffs":[[0,"bottom: "],[-1,"0"],[1,"-30px"],[0,";\n}\n\n#me"]],"start1":670,"start2":670,"length1":17,"length2":21}]],"length":894,"saved":false}
+{"ts":1381340048768,"patch":[[{"diffs":[[0,"ottom: -"],[-1,"3"],[1,"2"],[0,"0px;\n}\n\n"]],"start1":671,"start2":671,"length1":17,"length2":17}]],"length":894,"saved":false}
+{"ts":1381340063931,"patch":[[{"diffs":[[0,"ottom: -"],[-1,"20"],[1,"18"],[0,"px;\n}\n\n#"]],"start1":671,"start2":671,"length1":18,"length2":18}]],"length":894,"saved":false}
+{"ts":1381340071401,"patch":[[{"diffs":[[0,"m: -"],[1,"2"],[0,"1"],[-1,"8"],[0,"px;\n"]],"start1":675,"start2":675,"length1":10,"length2":10}]],"length":894,"saved":false}
+{"ts":1381340076423,"patch":[[{"diffs":[[0,"ttom: -2"],[-1,"1"],[1,"2"],[0,"px;\n}\n\n#"]],"start1":672,"start2":672,"length1":17,"length2":17}]],"length":894,"saved":false}

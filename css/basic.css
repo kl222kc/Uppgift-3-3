@@ -8,9 +8,13 @@
 
 #topbar {
     width: 720px;
-    
     text-align: right;
+    height: 150px;
 }
+
+#menu > a:first-child { 
+    display: none;
+    }
 
 #subcontent {
     width: 260px;
@@ -36,5 +40,26 @@
 }
 
 #menu {
-    background-color: #9ACD32;
+    background-color: #FFF;
+    height: 30px;
+    margin-bottom: -22px;
 }
+
+#menu ul {
+    list-style: none;
+    text-decoration:none;
+  width: 400px;
+      
+
+}
+
+#menu li {
+    float: left;
+    margin-right: 10px;
+    text-decoration:none;
+}
+
+#manu a {
+    text-decoration:none;
+}
+
