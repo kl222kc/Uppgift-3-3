@@ -3,8 +3,12 @@
 #container{
     width: 600px;
     margin: auto;
-    background-color: #8B4513;
+    background-color: #51473D;
     border: 1px groove #FFEFD5;
+}
+
+body {
+    color: #5D5348;
 }
 
 #topbar {
@@ -15,8 +19,9 @@
     background-repeat: no-repeat;
     background-size: 100% 90%;
     background-position:center bottom; 
-    background-color: #8B4513;
+    background-color: #51473D;
     margin-bottom: -17px;
+    color: #f9f6eb;
 }
 
 #menu > a:first-child { 
@@ -38,9 +43,9 @@
 }
 
 #content {
-    background-color: #FFEFD5;
+    background-color: #EAE7D2;
     padding-top: 1px;
-    border-top: 2px groove #FFEFD5;
+    border-top: 2px groove #EAE7D2;
 }
 
 #bottomcontent {
@@ -48,7 +53,7 @@
 }
 
 #menu {
-    background-color: #8B4513;
+    background-color: #51473D;
     height: 40px;
     margin: 1px;
 }
@@ -67,9 +72,9 @@
 }
 
 #menu a {
-    background-color: #708090;
+    background-color: #797066;
     margin-top: 6px;
-    color: #000;
+    color: #f9f6eb;
     text-decoration: none;
     display:block;
     padding: 5px;
@@ -83,8 +88,8 @@
 }
 
 #menu .active a {
-    color: red;
-    background-color: #FFEFD5;
+    color: #5D5348;
+    background-color: #EAE7D2;
     margin-top: 7px;
 }
 
