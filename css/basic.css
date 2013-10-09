@@ -32,14 +32,24 @@ body {
     width: 240px;
     margin-left: 350px;
     margin-right: 10px;
-    min-height: 400px;
+    min-height: 420px;
+    margin-top: 10px;
+}
+
+#subcontent a {
+    color: #5D5348;
+}
+
+#subcontent ul {
+    list-style: none;
 }
 
 #maincontent {
     float:left;
     width: 340px;
     margin-left: 10px;
-    border-right: dotted 1px #000;
+    border-right: dashed 1px #797066;
+    margin-top: 10px;
 }
 
 #content {
@@ -93,5 +103,12 @@ body {
     margin-top: 7px;
 }
 
+a.m_title {
+    text-transform: capitalize;
+}
+
+#menu a:first-letter {
+    text-transform: uppercase;
+}
 
 
