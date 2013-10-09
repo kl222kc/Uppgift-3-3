@@ -1,1 +1,40 @@
 /* Denna fil får du editera för att lösa uppgiften. Du får INTE ändra i html-filen. */
+
+#container{
+    width: 720px;
+    margin: 0 auto;
+    background-color: #8B4513;
+}
+
+#topbar {
+    width: 720px;
+    
+    text-align: right;
+}
+
+#subcontent {
+    width: 260px;
+    background-color: #FF0000;
+    margin-left: 450px;
+    min-height: 397px;
+    margin-right: 10px;
+}
+
+#maincontent {
+    float:left;
+    width: 440px;
+    margin-left: 10px;
+    background-color: #6A5ACD;
+}
+
+#content {
+    background-color: #FFEFD5;
+}
+
+#bottomcontent {
+
+}
+
+#menu {
+    background-color: #9ACD32;
+}
