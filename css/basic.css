@@ -9,7 +9,11 @@
 #topbar {
     width: 720px;
     text-align: right;
-    height: 150px;
+    height: 230px;
+    background-image:url('pics/coffey.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 92%;
+    background-position:center bottom; 
 }
 
 #menu > a:first-child { 
@@ -42,24 +46,18 @@
 #menu {
     background-color: #FFF;
     height: 30px;
-    margin-bottom: -22px;
 }
 
 #menu ul {
     list-style: none;
-    text-decoration:none;
-  width: 400px;
-      
-
 }
 
 #menu li {
     float: left;
     margin-right: 10px;
-    text-decoration:none;
 }
 
 #manu a {
-    text-decoration:none;
+
 }
 
