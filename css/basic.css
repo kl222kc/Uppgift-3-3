@@ -1,19 +1,22 @@
 /* Denna fil får du editera för att lösa uppgiften. Du får INTE ändra i html-filen. */
 
 #container{
-    width: 720px;
-    margin: 0 auto;
+    width: 600px;
+    margin: auto;
     background-color: #8B4513;
 }
 
 #topbar {
-    width: 720px;
+    width: 600px;
     text-align: right;
-    height: 230px;
+    height: 250px;
     background-image:url('pics/coffey.jpg');
     background-repeat: no-repeat;
-    background-size: 100% 92%;
+    background-size: 100% 99%;
     background-position:center bottom; 
+    position: relative;
+    top: 12px;
+    background-color: #8B4513;
 }
 
 #menu > a:first-child { 
@@ -21,22 +24,22 @@
     }
 
 #subcontent {
-    width: 260px;
+    width: 240px;
     background-color: #FF0000;
-    margin-left: 450px;
-    min-height: 397px;
+    margin-left: 350px;
     margin-right: 10px;
 }
 
 #maincontent {
     float:left;
-    width: 440px;
+    width: 340px;
     margin-left: 10px;
     background-color: #6A5ACD;
 }
 
 #content {
     background-color: #FFEFD5;
+    padding-top: 1px;
 }
 
 #bottomcontent {
@@ -44,20 +47,41 @@
 }
 
 #menu {
-    background-color: #FFF;
-    height: 30px;
+    background-color: #8B4513;
+    height: 40px;
+    margin: 1px;
 }
 
 #menu ul {
     list-style: none;
+    margin-left: -27px;
 }
 
 #menu li {
     float: left;
-    margin-right: 10px;
+    margin-right: 1px;
+    background-color: #708090;
+    color: #000;
 }
 
-#manu a {
-
+#menu a {
+    color: #000;
+    text-decoration: none;
+    display:block;
+    padding: 10px;
+    padding-right: 22px;
+    padding-left: 22px;
+    padding-bottom: 11px;
 }
+
+#menu a:hover {
+    background-color: #000;
+}
+
+#menu .active a {
+    color: red;
+    background-color: #FFEFD5;
+}
+
+
 
