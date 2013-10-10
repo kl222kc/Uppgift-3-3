@@ -96,7 +96,7 @@ p {
 #content {
     background-color: #EAE7D2;
     padding-top: 1px;
-    border-top: 2px groove #EAE7D2;
+    border-top: 2px groove #fff;
 }
 
 #bottomcontent {
@@ -108,8 +108,6 @@ p {
         position:relative;
          top:-10px;
 }
-
-
 
 #menu {
     background-color: #51473D;
@@ -142,7 +140,7 @@ p {
 }
 
 #menu a:hover {
-    background-color: #000;
+    background-color: #9C9084;
 }
 
 #menu .active a {
